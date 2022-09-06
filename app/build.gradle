@@ -74,4 +74,14 @@ dependencies {
 
     //Paging 3.0
     implementation 'androidx.paging:paging-compose:1.0.0-alpha15'
+
+    //Camera
+    implementation "androidx.camera:camera-camera2:1.1.0"
+    implementation "androidx.camera:camera-lifecycle:1.1.0"
+    implementation 'androidx.camera:camera-view:1.1.0'
+
+
+    //Accompanist Camera Permission
+    implementation "com.google.accompanist:accompanist-permissions:0.23.1"
+
 }
